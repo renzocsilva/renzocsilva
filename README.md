@@ -7,7 +7,7 @@
 - 🔭 I do geoscience research at the [University of Calgary][Become A VS Code SuperHero!][ucalgary]
 - :seedling: I lead a [business][lysislogic] focused on geochemistry, petroleum systems and the future of energy industry   
 - :atom_symbol: My nichest expertise is processing and interpreting analytical data from chemical systems
-- :books: Everything I learn I somehow apply to the projects I am working on
+- :books: Everything I learn I somehow apply to ongoing projects
 - :goal_net: 2022 Goals: be more active sharing the shareable part of my work
 - ⚡ Fun fact: I have 2 invertebrates as pets.
 
