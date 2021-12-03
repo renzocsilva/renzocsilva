@@ -4,11 +4,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/renzocsilva?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frenzocsilva&screen_name=renzocsilva)
 
 ## I'm a Scientist, Data Scientist, Entrepreneur, Husband, Father!
-- 🔭 I do geoscience research at the [University of Calgary][ucalgary].
-- :seedling: I lead a [business][lysislogic] focused on geochemistry, petroleum systems and the future of energy industry.  
+- 🔭  Research Associate at [University of Calgary][ucalgary], and CEO/Co-Founder at [LysisLogic][lysislogic]
+- :seedling: Currently developing experimental and modelling solutions on issues around petroleum geochemistry and climate change mitigation.  
+💓 Passionate about solving real world problems with science and data.
 - :cyclone: My nichest expertise is processing, interpreting, and modelling analytical data from chemical systems.
 - :books: Everything I learn I somehow apply to ongoing projects.
-- :goal_net: 2022 Goals: be more active sharing the shareable parts of my work.
+- :goal_net: 2022 Goals: Be more active sharing the shareable parts of my work.
+👨‍👩‍👧‍👧  Living in Airdrie - Canada, with my loving family of 4.
 - ⚡ Fun fact: I have 2 invertebrates as pets.
 
 ### Connect with me:
