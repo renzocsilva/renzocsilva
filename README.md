@@ -1,20 +1,20 @@
-### Hi there, I'm Renzo C. Silva - aka [renzocsilva][website] 👋 
+### Hi there, I'm [Renzo C. Silva][website] 👋 
 
-[![Website](https://img.shields.io/website?label=renzocsilva.ca&style=for-the-badge&url=https%3A%2F%2Frenzocsilva.ca)](https://renzocsilva.com)
+[![Website](https://img.shields.io/website?label=renzocsilva.ca&style=for-the-badge&url=https%3A%2F%2Frenzocsilva.ca)](https://renzocsilva.ca)
 [![Twitter Follow](https://img.shields.io/twitter/follow/renzocsilva?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frenzocsilva&screen_name=renzocsilva)
 
 ## I'm a Scientist, Data Scientist, Entrepreneur, Husband, Father!
-- 🔭 I do geoscience research at the [University of Calgary][ucalgary]
-- :seedling: I lead a [business][lysislogic] focused on geochemistry, petroleum systems and the future of energy industry   
-- :atom_symbol: My nichest expertise is processing and interpreting analytical data from chemical systems
-- :books: Everything I learn I somehow apply to ongoing projects
-- :goal_net: 2022 Goals: be more active sharing the shareable part of my work
+- 🔭 I do geoscience research at the [University of Calgary][ucalgary].
+- :seedling: I lead a [business][lysislogic] focused on geochemistry, petroleum systems and the future of energy industry.  
+- :cyclone: My nichest expertise is processing, interpreting, and modelling analytical data from chemical systems.
+- :books: Everything I learn I somehow apply to ongoing projects.
+- :goal_net: 2022 Goals: be more active sharing the shareable parts of my work.
 - ⚡ Fun fact: I have 2 invertebrates as pets.
 
 ### Connect with me:
 
 [<img align="left" alt="renzocsilva.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="renzocilva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -31,13 +31,6 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="renzocsilva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=renzocsilva&show_icons=true&hide_border=true&count_private=true" />
-
-</details>
 
 [website]: https://github.com/renzocsilva
 [ucalgary]: http://ucalgary.ca/prg
