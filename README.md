@@ -6,11 +6,11 @@
 ## I'm a Scientist, Data Scientist, Entrepreneur, Husband, Father!
 - 🔭  Research Associate at [University of Calgary][ucalgary], and CEO/Co-Founder at [LysisLogic][lysislogic]
 - :seedling: Currently developing experimental and modelling solutions on issues around petroleum geochemistry and climate change mitigation.  
-💓 Passionate about solving real world problems with science and data.
+- 💓 Passionate about solving real world problems with science and data.
 - :cyclone: My nichest expertise is processing, interpreting, and modelling analytical data from chemical systems.
 - :books: Everything I learn I somehow apply to ongoing projects.
-- :goal_net: 2022 Goals: Be more active sharing the shareable parts of my work.
-👨‍👩‍👧‍👧  Living in Airdrie - Canada, with my loving family of 4.
+- :goal_net: 2022 Goals: Be more active sharing the shareable parts of my work.  
+- 👨‍👩‍👧‍👧  Living in Airdrie - Canada, with my loving family of 4.
 - ⚡ Fun fact: I have 2 invertebrates as pets.
 
 ### Connect with me:
