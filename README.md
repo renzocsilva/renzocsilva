@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=renzolab.com&style=for-the-badge&url=https%3A%2F%2Frenzolab.com)](https://renzolab.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/renzocsilva?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frenzocsilva&screen_name=renzocsilva)
 
-## I'm a Scientist, Data Scientist, Entrepreneur, Husband, Father!
+## I'm a Scientist, Data Science & Analytics Professional, and Entrepreneur. 
 - 🔭  Research Manager at [University of Calgary](https://ucalgary.ca), and CEO/Co-Founder at [LysisLogic](https://lysislogic.com)
 - :seedling: Currently developing experimental and modeling solutions on issues around petroleum geochemistry and climate change mitigation.  
 - 💓 Passionate about solving real world problems with science and data.
