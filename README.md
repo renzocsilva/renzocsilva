@@ -1,21 +1,21 @@
 ### Hi there, I'm [Renzo C. Silva][website] 👋 
 
-[![Website](https://img.shields.io/website?label=renzocsilva.ca&style=for-the-badge&url=https%3A%2F%2Frenzocsilva.ca)](https://renzocsilva.ca)
+[![Website](https://img.shields.io/website?label=renzolab.com&style=for-the-badge&url=https%3A%2F%2Frenzolab.com)](https://renzolab.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/renzocsilva?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frenzocsilva&screen_name=renzocsilva)
 
 ## I'm a Scientist, Data Scientist, Entrepreneur, Husband, Father!
-- 🔭  Research Associate at [University of Calgary][ucalgary], and CEO/Co-Founder at [LysisLogic][lysislogic]
-- :seedling: Currently developing experimental and modelling solutions on issues around petroleum geochemistry and climate change mitigation.  
+- 🔭  Research Manager at [University of Calgary](https://ucalgary.ca), and CEO/Co-Founder at [LysisLogic](https://lysislogic.com)
+- :seedling: Currently developing experimental and modeling solutions on issues around petroleum geochemistry and climate change mitigation.  
 - 💓 Passionate about solving real world problems with science and data.
 - :cyclone: My nichest expertise is processing, interpreting, and modelling analytical data from chemical systems.
-- :books: Everything I learn I somehow apply to ongoing projects.
-- :goal_net: 2022 Goals: Be more active sharing the shareable parts of my work.  
+- :books: Everything I learn somehow impacts ongoing projects.
+- :goal_net: 2022 Goals: setup my cloud lab to host projets I do for fun. 
 - 👨‍👩‍👧‍👧  Living in Airdrie - Canada, with my loving family of 4.
-- ⚡ Fun fact: I have 2 invertebrates as pets.
+- ⚡ Fun fact: I have 1 invertebrate as a pet.
 
 ### Connect with me:
 
-[<img align="left" alt="renzocsilva.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="renzolab.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="renzocilva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -39,3 +39,4 @@
 [twitter]: https://twitter.com/renzocsilva
 [linkedin]: https://linkedin.com/in/renzocsilva
 [lysislogic]: https://lysislogic.com
+[renzolab]: https://renzolab.com
