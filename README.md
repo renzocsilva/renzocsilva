@@ -4,14 +4,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/renzocsilva?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frenzocsilva&screen_name=renzocsilva)
 
 ## I'm a Scientist, Data Science & Analytics Professional, and Entrepreneur. 
-- 🔭  Research Manager at [University of Calgary](https://ucalgary.ca), and CEO/Co-Founder at [LysisLogic](https://lysislogic.com)
-- :seedling: Currently developing experimental and modeling solutions on issues around petroleum geochemistry and climate change mitigation.  
-- 💓 Passionate about solving real world problems with science and data.
-- :cyclone: My nichest expertise is processing, interpreting, and modelling analytical data from chemical systems.
-- :books: Everything I learn somehow impacts ongoing projects.
-- :goal_net: 2022 Goals: setup my cloud lab to host projets I do for fun. 
+- 🔭  Research Manager at [University of Calgary](https://ucalgary.ca), and CEO/Co-Founder at [LysisLogic](https://lysislogic.com).
+- :seedling: Developing science- and data-based technologies to make sense of complex organic matter in: subsurface, biomass, beverages, and even on other planets.  
+- 💓 Passionate about the data lifecycle in problem-solving endeavors.
+- :cyclone: My nichest expertise is managing analytical programs and their derived technologies.
+- :books: I never stop learning.
+- :goal_net: 2023 Goals: expand my cloud lab to host projets I do for fun. 
 - 👨‍👩‍👧‍👧  Living in Airdrie - Canada, with my loving family of 4.
-- ⚡ Fun fact: I have 1 invertebrate as a pet.
+- ⚡ Fun fact: my oldest pet is as invertebrate.
 
 ### Connect with me:
 
